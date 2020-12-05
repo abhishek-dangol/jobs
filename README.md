@@ -1,3 +1,4 @@
-#### IN ACTION
+### Link to the wepage:
+https://dan-jobs.netlify.app/
 
-[Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
+![](public/jobs.gif)
